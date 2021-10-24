@@ -1,2 +1,2 @@
 # Download Calculator.exe
->Thenks for Downloading
+>Thenks for **Downloading**
