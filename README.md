@@ -1,2 +1,2 @@
-# Download Calculator.exe
+# Download Calculator.msi
 >Thenks for **Downloading**
